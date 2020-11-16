@@ -63,6 +63,22 @@
       ]
     }
   ],
+  "chubu": [
+    {
+      "long_name": "中部地方の市町村",
+      "include": [
+        "yamanashi.txt", "nagano.txt", "nigata.txt", "toyama.txt", "ishikawa.txt", "fukui.txt", "mie.txt"
+      ]
+    }
+  ],
+  "chugoku": [
+    {
+      "long_name": "中国地方の市町村",
+      "include": [
+        "tottori.txt", "shimane.txt", "okayama.txt", "hiroshima.txt", "yamaguchi.txt"
+      ]
+    }
+  ],
   "color": [
     {
       "long_name": "色の名前",
@@ -239,6 +255,14 @@
       ]
     }
   ],
+  "japan": [
+    {
+      "long_name": "日本の市町村",
+      "inckude": [
+        "hokkaido.txt", "tohoku", "kanto", "chubu", "kinki", "chugoku", "shikoku", "kyushu"
+      ]
+    }
+  ],
   "kagawa": [
     {
       "long_name": "香川県の市町村",
@@ -260,6 +284,22 @@
       "long_name": "神奈川県の市町村",
       "include": [
         "kanagawa.txt"
+      ]
+    }
+  ],
+  "kanto": [
+    {
+      "long_name": "関東地方の市町村",
+      "include": [
+        "ibaraki.txt", "tochigi.txt", "gunma.txt", "saitama.txt", "chiba.txt", "tokyo.txt", "kanagawa.txt"
+      ]
+    }
+  ],
+  "kinki": [
+    {
+      "long_name": "近畿地方の市町村",
+      "include": [
+        "shiga.txt", "kyoto.txt", "osaka.txt", "hyogo.txt", "nara.txt", "wakayama.txt"
       ]
     }
   ],
@@ -292,6 +332,14 @@
       "long_name": "京都府の市町村",
       "include": [
         "kyoto.txt"
+      ]
+    }
+  ],
+  "kyushu": [
+    {
+      "long_name": "九州地方の市町村",
+      "include": [
+        "fukuoka.txt", "saga.txt", "nagasaki.txt", "kumamoto.txt", "ooita.txt", "miyazaki.txt", "kagoshima.txt", "okinawa.txt"
       ]
     }
   ],
@@ -479,6 +527,14 @@
       ]
     }
   ],
+  "shikoku": [
+    {
+      "long_name": "四国地方の市町村",
+      "include": [
+        "kagawa.txt", "ehime.txt", "tokushima.txt", "kochi.txt"
+      ]
+    }
+  ],
   "shizuoka": [
     {
       "long_name": "静岡県の市町村",
@@ -532,6 +588,14 @@
       "long_name": "富山県の市町村",
       "include": [
         "toyama.txt"
+      ]
+    }
+  ],
+  "tohoku": [
+    {
+      "long_name": "東北地方の市町村",
+      "include" : [
+        "aomori.txt", "iwate.txt", "akita.txt", "yamagata.txt", "fukushima.txt", "miyagi.txt"
       ]
     }
   ],
