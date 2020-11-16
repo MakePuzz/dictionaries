@@ -1,0 +1,586 @@
+{
+    "aichi": [
+        {
+            "long_name": "愛知県の市町村",
+            "include" : [
+                "aichi"
+            ]
+        }
+    ],
+    "akita": [
+        {
+            "long_name": "秋田県の市町村",
+            "include" : [
+                "akita"
+            ]
+        }
+    ],
+    "animals": [
+        {
+            "long_name": "動物の名前",
+            "include" : [
+                "animals"
+            ]
+        }
+    ],
+    "aomori": [
+        {
+            "long_name": "青森県の市町村",
+            "include" : [
+                "aomori"
+            ]
+        }
+    ],
+    "beef": [
+        {
+            "long_name": "肉の種類",
+            "include" : [
+                "beef"
+            ]
+        }
+    ],
+    "birds": [
+        {
+            "long_name": "鳥の名前",
+            "include" : [
+                "birds"
+            ]
+        }
+    ],
+    "cats": [
+        {
+            "long_name": "猫の名前",
+            "include" : [
+                "cats"
+            ]
+        }
+    ],
+    "chiba": [
+        {
+            "long_name": "千葉県の市町村",
+            "include" : [
+                "chiba"
+            ]
+        }
+    ],
+    "color": [
+        {
+            "long_name": "色の名前",
+            "include" : [
+                "color"
+            ]
+        }
+    ],
+    "countries": [
+        {
+            "long_name": "国の名前",
+            "include" : [
+                "countries"
+            ]
+        }
+    ],
+    "dinosaurs": [
+        {
+            "long_name": "恐竜の名前",
+            "include" : [
+                "dinosaurs"
+            ]
+        }
+    ],
+    "ehime": [
+        {
+            "long_name": "愛媛県の市町村",
+            "include" : [
+                "ehime"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "long_name": "元素の名前",
+            "include" : [
+                "elements"
+            ]
+        }
+    ],
+    "fishes": [
+        {
+            "long_name": "魚の名前",
+            "include" : [
+                "fishes"
+            ]
+        }
+    ],
+    "fruit-vegetable_english": [
+        {
+            "long_name": "fruit and vegetables",
+            "include" : [
+                "fruit-vegetable_english"
+            ]
+        }
+    ],
+    "fruit-vegetable_japanese": [
+        {
+            "long_name": "野菜・果物の名前",
+            "include" : [
+                "fruit-vegetable_japanese"
+            ]
+        }
+    ],
+    "fukishima": [
+        {
+            "long_name": "福島県の市町村",
+            "include" : [
+                "fukishima"
+            ]
+        }
+    ],
+    "fukui": [
+        {
+            "long_name": "福井県の市町村",
+            "include" : [
+                "fukui"
+            ]
+        }
+    ],
+    "fukuoka": [
+        {
+            "long_name": "福岡県の市町村",
+            "include" : [
+                "fukuoka"
+            ]
+        }
+    ],
+    "gemstones_katakana": [
+        {
+            "long_name": "宝石の名前",
+            "include" : [
+                "gemstones_katakana"
+            ]
+        }
+    ],
+    "gihu": [
+        {
+            "long_name": "岐阜県の市町村",
+            "include" : [
+                "gihu"
+            ]
+        }
+    ],
+    "gunma": [
+        {
+            "long_name": "群馬県の市町村",
+            "include" : [
+                "gunma"
+            ]
+        }
+    ],
+    "hiroshima": [
+        {
+            "long_name": "広島県の市町村",
+            "include" : [
+                "hiroshima"
+            ]
+        }
+    ],
+    "hokkaido": [
+        {
+            "long_name": "北海道の市町村",
+            "include" : [
+                "hokkaido"
+            ]
+        }
+    ],
+    "hyogo": [
+        {
+            "long_name": "兵庫県の市町村",
+            "include" : [
+                "hyogo"
+            ]
+        }
+    ],
+    "ibaraki": [
+        {
+            "long_name": "茨城県の市町村",
+            "include" : [
+                "ibaraki"
+            ]
+        }
+    ],
+    "instrument_english": [
+        {
+            "long_name": "instrument",
+            "include" : [
+                "instrument_english"
+            ]
+        }
+    ],
+    "instrument_japanese": [
+        {
+            "long_name": "楽器の名前",
+            "include" : [
+                "instrument_japanese"
+            ]
+        }
+    ],
+    "ishikawa": [
+        {
+            "long_name": "石川県の市町村",
+            "include" : [
+                "ishikawa"
+            ]
+        }
+    ],
+    "iwate": [
+        {
+            "long_name": "岩手県の市町村",
+            "include" : [
+                "iwate"
+            ]
+        }
+    ],
+    "kagawa": [
+        {
+            "long_name": "香川県の市町村",
+            "include" : [
+                "kagawa"
+            ]
+        }
+    ],
+    "kagoshima": [
+        {
+            "long_name": "鹿児島県の市町村",
+            "include" : [
+                "kagoshima"
+            ]
+        }
+    ],
+    "kanagawa": [
+        {
+            "long_name": "神奈川県の市町村",
+            "include" : [
+                "kanagawa"
+            ]
+        }
+    ],
+    "kochi": [
+        {
+            "long_name": "高知県の市町村",
+            "include" : [
+                "kochi"
+            ]
+        }
+    ],
+    "kotowaza": [
+        {
+            "long_name": "ことわざ",
+            "include" : [
+                "kotowaza"
+            ]
+        }
+    ],
+    "kumamoto": [
+        {
+            "long_name": "熊本県の市町村",
+            "include" : [
+                "kumamoto"
+            ]
+        }
+    ],
+    "kyoto": [
+        {
+            "long_name": "京都府の市町村",
+            "include" : [
+                "kyoto"
+            ]
+        }
+    ],
+    "mie": [
+        {
+            "long_name": "三重県の市町村",
+            "include" : [
+                "mie"
+            ]
+        }
+    ],
+    "miyagi": [
+        {
+            "long_name": "宮城県の市町村",
+            "include" : [
+                "miyagi"
+            ]
+        }
+    ],
+    "miyazaki": [
+        {
+            "long_name": "宮崎県の市町村",
+            "include" : [
+                "miyazaki"
+            ]
+        }
+    ],
+    "nagano": [
+        {
+            "long_name": "長野県の市町村",
+            "include" : [
+                "nagano"
+            ]
+        }
+    ],
+    "nagasaki": [
+        {
+            "long_name": "長崎県の市町村",
+            "include" : [
+                "nagasaki"
+            ]
+        }
+    ],
+    "nara": [
+        {
+            "long_name": "奈良県の市町村",
+            "include" : [
+                "nara"
+            ]
+        }
+    ],
+    "national_capital_japanese": [
+        {
+            "long_name": "世界の国の首都",
+            "include" : [
+                "national_capital_japanese"
+            ]
+        }
+    ],
+    "nigata": [
+        {
+            "long_name": "新潟県の市町村",
+            "include" : [
+                "nigata"
+            ]
+        }
+    ],
+    "okayama": [
+        {
+            "long_name": "岡山県の市町村",
+            "include" : [
+                "okayama"
+            ]
+        }
+    ],
+    "okinawa": [
+        {
+            "long_name": "沖縄県の市町村",
+            "include" : [
+                "okinawa"
+            ]
+        }
+    ],
+    "ooita": [
+        {
+            "long_name": "大分県の市町村",
+            "include" : [
+                "ooita"
+            ]
+        }
+    ],
+    "osaka": [
+        {
+            "long_name": "大阪府の市町村",
+            "include" : [
+                "osaka"
+            ]
+        }
+    ],
+    "pokemon": [
+        {
+            "long_name": "ポケモンの名前",
+            "include" : [
+                "pokemon"
+            ]
+        }
+    ],
+    "pokemon_kanto": [
+        {
+            "long_name": "ポケモンの名前（カントー地方）",
+            "include" : [
+                "pokemon_kanto"
+            ]
+        }
+    ],
+    "prefectures": [
+        {
+            "long_name": "都道府県の名前",
+            "include" : [
+                "prefectures"
+            ]
+        }
+    ],
+    "residents-doumori": [
+        {
+            "long_name": "『どうぶつの森』シリーズの住民の名前",
+            "include" : [
+                "residents-doumori"
+            ]
+        }
+    ],
+    "s_and_p100": [
+        {
+            "long_name": "Components of S&P 100",
+            "include" : [
+                "s_and_p100"
+            ]
+        }
+    ],
+    "saga": [
+        {
+            "long_name": "佐賀県の市町村",
+            "include" : [
+                "saga"
+            ]
+        }
+    ],
+    "saitama": [
+        {
+            "long_name": "埼玉県の市町村",
+            "include" : [
+                "saitama"
+            ]
+        }
+    ],
+    "sake": [
+        {
+            "long_name": "酒の種類",
+            "include" : [
+                "sake"
+            ]
+        }
+    ],
+    "shanghai_exe": [
+        {
+            "long_name": "シャンハイエグゼのチップ名",
+            "include" : [
+                "shanghai_exe"
+            ]
+        }
+    ],
+    "shiga": [
+        {
+            "long_name": "滋賀県の市町村",
+            "include" : [
+                "shiga"
+            ]
+        }
+    ],
+    "shimane": [
+        {
+            "long_name": "島根県の市町村",
+            "include" : [
+                "shimane"
+            ]
+        }
+    ],
+    "shizuoka": [
+        {
+            "long_name": "静岡県の市町村",
+            "include" : [
+                "shizuoka"
+            ]
+        }
+    ],
+    "sports": [
+        {
+            "long_name": "スポーツの名前",
+            "include" : [
+                "sports"
+            ]
+        }
+    ],
+    "tochigi": [
+        {
+            "long_name": "栃木県の市町村",
+            "include" : [
+                "tochigi"
+            ]
+        }
+    ],
+    "tokushima": [
+        {
+            "long_name": "徳島県の市町村",
+            "include" : [
+                "tokushima"
+            ]
+        }
+    ],
+    "tokyo": [
+        {
+            "long_name": "東京都の市町村",
+            "include" : [
+                "tokyo"
+            ]
+        }
+    ],
+    "tottori": [
+        {
+            "long_name": "鳥取県の市町村",
+            "include" : [
+                "tottori"
+            ]
+        }
+    ],
+    "toyama": [
+        {
+            "long_name": "富山県の市町村",
+            "include" : [
+                "toyama"
+            ]
+        }
+    ],
+    "typhoon": [
+        {
+            "long_name": "Typhoon names",
+            "include" : [
+                "typhoon"
+            ]
+        }
+    ],
+    "wakayama": [
+        {
+            "long_name": "和歌山県の市町村",
+            "include" : [
+                "wakayama"
+            ]
+        }
+    ],
+    "western_color": [
+        {
+            "long_name": "色の名前（洋色）",
+            "include" : [
+                "western_color"
+            ]
+        }
+    ],
+    "yamagata": [
+        {
+            "long_name": "山形県の市町村",
+            "include" : [
+                "yamagata"
+            ]
+        }
+    ],
+    "yamaguchi": [
+        {
+            "long_name": "山口県の市町村",
+            "include" : [
+                "yamaguchi"
+            ]
+        }
+    ],
+    "yamanashi": [
+        {
+            "long_name": "山梨県の市町村",
+            "include" : [
+                "yamanashi"
+            ]
+        }
+    ]
+}
