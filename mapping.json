@@ -203,7 +203,7 @@
   },
   "japan": {
     "long_name": "日本の市町村",
-    "inckude": [
+    "contain": [
       "hokkaido.txt",
       "tohoku",
       "kanto",
