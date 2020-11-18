@@ -5,22 +5,10 @@
       "aichi.txt"
     ]
   },
-  "akita": {
-    "long_name": "秋田県の市町村",
-    "contain": [
-      "akita.txt"
-    ]
-  },
   "animals": {
     "long_name": "動物の名前",
     "contain": [
       "animals.txt"
-    ]
-  },
-  "aomori": {
-    "long_name": "青森県の市町村",
-    "contain": [
-      "aomori.txt"
     ]
   },
   "beef": {
@@ -87,12 +75,6 @@
       "dinosaurs.txt"
     ]
   },
-  "ehime": {
-    "long_name": "愛媛県の市町村",
-    "contain": [
-      "ehime.txt"
-    ]
-  },
   "elements": {
     "long_name": "元素の名前",
     "contain": [
@@ -123,12 +105,6 @@
       "fukushima.txt"
     ]
   },
-  "fukui": {
-    "long_name": "福井県の市町村",
-    "contain": [
-      "fukui.txt"
-    ]
-  },
   "fukuoka": {
     "long_name": "福岡県の市町村",
     "contain": [
@@ -141,34 +117,10 @@
       "gemstones_katakana.txt"
     ]
   },
-  "gifu": {
-    "long_name": "岐阜県の市町村",
-    "contain": [
-      "gifu.txt"
-    ]
-  },
-  "gunma": {
-    "long_name": "群馬県の市町村",
-    "contain": [
-      "gunma.txt"
-    ]
-  },
-  "hiroshima": {
-    "long_name": "広島県の市町村",
-    "contain": [
-      "hiroshima.txt"
-    ]
-  },
   "hokkaido": {
     "long_name": "北海道の市町村",
     "contain": [
       "hokkaido.txt"
-    ]
-  },
-  "hyogo": {
-    "long_name": "兵庫県の市町村",
-    "contain": [
-      "hyogo.txt"
     ]
   },
   "ibaraki": {
@@ -189,18 +141,6 @@
       "instrument_japanese.txt"
     ]
   },
-  "ishikawa": {
-    "long_name": "石川県の市町村",
-    "contain": [
-      "ishikawa.txt"
-    ]
-  },
-  "iwate": {
-    "long_name": "岩手県の市町村",
-    "contain": [
-      "iwate.txt"
-    ]
-  },
   "japan": {
     "long_name": "日本の市町村",
     "contain": [
@@ -212,24 +152,6 @@
       "chugoku",
       "shikoku",
       "kyushu"
-    ]
-  },
-  "kagawa": {
-    "long_name": "香川県の市町村",
-    "contain": [
-      "kagawa.txt"
-    ]
-  },
-  "kagoshima": {
-    "long_name": "鹿児島県の市町村",
-    "contain": [
-      "kagoshima.txt"
-    ]
-  },
-  "kanagawa": {
-    "long_name": "神奈川県の市町村",
-    "contain": [
-      "kanagawa.txt"
     ]
   },
   "kanto": {
@@ -255,12 +177,6 @@
       "wakayama.txt"
     ]
   },
-  "kochi": {
-    "long_name": "高知県の市町村",
-    "contain": [
-      "kochi.txt"
-    ]
-  },
   "kotowaza": {
     "long_name": "ことわざ",
     "contain": [
@@ -271,12 +187,6 @@
     "long_name": "熊本県の市町村",
     "contain": [
       "kumamoto.txt"
-    ]
-  },
-  "kyoto": {
-    "long_name": "京都府の市町村",
-    "contain": [
-      "kyoto.txt"
     ]
   },
   "kyushu": {
@@ -292,70 +202,16 @@
       "okinawa.txt"
     ]
   },
-  "mie": {
-    "long_name": "三重県の市町村",
-    "contain": [
-      "mie.txt"
-    ]
-  },
-  "miyagi": {
-    "long_name": "宮城県の市町村",
-    "contain": [
-      "miyagi.txt"
-    ]
-  },
-  "miyazaki": {
-    "long_name": "宮崎県の市町村",
-    "contain": [
-      "miyazaki.txt"
-    ]
-  },
   "nagano": {
     "long_name": "長野県の市町村",
     "contain": [
       "nagano.txt"
     ]
   },
-  "nagasaki": {
-    "long_name": "長崎県の市町村",
-    "contain": [
-      "nagasaki.txt"
-    ]
-  },
-  "nara": {
-    "long_name": "奈良県の市町村",
-    "contain": [
-      "nara.txt"
-    ]
-  },
   "national_capital_japanese": {
     "long_name": "世界の国の首都",
     "contain": [
       "national_capital_japanese.txt"
-    ]
-  },
-  "nigata": {
-    "long_name": "新潟県の市町村",
-    "contain": [
-      "nigata.txt"
-    ]
-  },
-  "okayama": {
-    "long_name": "岡山県の市町村",
-    "contain": [
-      "okayama.txt"
-    ]
-  },
-  "okinawa": {
-    "long_name": "沖縄県の市町村",
-    "contain": [
-      "okinawa.txt"
-    ]
-  },
-  "ooita": {
-    "long_name": "大分県の市町村",
-    "contain": [
-      "ooita.txt"
     ]
   },
   "osaka": {
@@ -394,18 +250,6 @@
       "s_and_p100.txt"
     ]
   },
-  "saga": {
-    "long_name": "佐賀県の市町村",
-    "contain": [
-      "saga.txt"
-    ]
-  },
-  "saitama": {
-    "long_name": "埼玉県の市町村",
-    "contain": [
-      "saitama.txt"
-    ]
-  },
   "sake": {
     "long_name": "酒の種類",
     "contain": [
@@ -418,18 +262,6 @@
       "shanghai_exe.txt"
     ]
   },
-  "shiga": {
-    "long_name": "滋賀県の市町村",
-    "contain": [
-      "shiga.txt"
-    ]
-  },
-  "shimane": {
-    "long_name": "島根県の市町村",
-    "contain": [
-      "shimane.txt"
-    ]
-  },
   "shikoku": {
     "long_name": "四国地方の市町村",
     "contain": [
@@ -439,46 +271,16 @@
       "kochi.txt"
     ]
   },
-  "shizuoka": {
-    "long_name": "静岡県の市町村",
-    "contain": [
-      "shizuoka.txt"
-    ]
-  },
   "sports": {
     "long_name": "スポーツの名前",
     "contain": [
       "sports.txt"
     ]
   },
-  "tochigi": {
-    "long_name": "栃木県の市町村",
-    "contain": [
-      "tochigi.txt"
-    ]
-  },
-  "tokushima": {
-    "long_name": "徳島県の市町村",
-    "contain": [
-      "tokushima.txt"
-    ]
-  },
   "tokyo": {
-    "long_name": "東京都の市町村",
+    "long_name": "東京都の市区町村",
     "contain": [
       "tokyo.txt"
-    ]
-  },
-  "tottori": {
-    "long_name": "鳥取県の市町村",
-    "contain": [
-      "tottori.txt"
-    ]
-  },
-  "toyama": {
-    "long_name": "富山県の市町村",
-    "contain": [
-      "toyama.txt"
     ]
   },
   "tohoku": {
@@ -498,34 +300,10 @@
       "typhoon.txt"
     ]
   },
-  "wakayama": {
-    "long_name": "和歌山県の市町村",
-    "contain": [
-      "wakayama.txt"
-    ]
-  },
   "western_color": {
     "long_name": "色の名前（洋色）",
     "contain": [
       "western_color.txt"
-    ]
-  },
-  "yamagata": {
-    "long_name": "山形県の市町村",
-    "contain": [
-      "yamagata.txt"
-    ]
-  },
-  "yamaguchi": {
-    "long_name": "山口県の市町村",
-    "contain": [
-      "yamaguchi.txt"
-    ]
-  },
-  "yamanashi": {
-    "long_name": "山梨県の市町村",
-    "contain": [
-      "yamanashi.txt"
     ]
   }
 }
