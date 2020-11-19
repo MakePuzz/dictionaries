@@ -318,6 +318,18 @@
       "typhoon.txt"
     ]
   },
+    "us_states_en": {
+    "long_name": "States of the United States",
+    "contain": [
+      "us_states_en.txt"
+    ]
+  },
+    "us_states_ja": {
+    "long_name": "アメリカの州",
+    "contain": [
+      "us_states_ja.txt"
+    ]
+  },
   "western_color": {
     "long_name": "色の名前（洋色）",
     "contain": [
