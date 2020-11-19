@@ -214,6 +214,12 @@
       "nagano.txt"
     ]
   },
+  "naruto": {
+    "long_name": "『NARUTO』の登場人物",
+    "contain": [
+      "naruto.txt"
+    ]
+  },
   "national_capital_japanese": {
     "long_name": "世界の国の首都",
     "contain": [
