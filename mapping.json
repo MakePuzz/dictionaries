@@ -117,6 +117,12 @@
       "gemstones_katakana.txt"
     ]
   },
+  "greek_mythology": {
+    "long_name": "ギリシア神話の登場人物",
+    "contain": [
+      "greek_mythology.txt"
+    ]
+  },
   "hokkaido": {
     "long_name": "北海道の市町村",
     "contain": [
