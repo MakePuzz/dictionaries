@@ -335,5 +335,11 @@
     "contain": [
       "western_color.txt"
     ]
+  },
+  "zatch-bell": {
+    "long_name": "『金色のガッシュ!!』の登場人物",
+    "contain": [
+      "zatch-bell.txt"
+    ]
   }
 }
