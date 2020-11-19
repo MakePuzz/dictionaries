@@ -166,6 +166,12 @@
       "kanagawa.txt"
     ]
   },
+  "kimetsu-no-yaiba": {
+      "long_name": "『鬼滅の刃』の登場人物",
+      "include": [
+        "kimetsu-no-yaiba.txt"
+      ]
+  },
   "kinki": {
     "long_name": "近畿地方の市町村",
     "contain": [
