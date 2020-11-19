@@ -280,12 +280,6 @@
       "sake.txt"
     ]
   },
-  "shanghai_exe": {
-    "long_name": "シャンハイエグゼのチップ名",
-    "contain": [
-      "shanghai_exe.txt"
-    ]
-  },
   "shikoku": {
     "long_name": "四国地方の市町村",
     "contain": [
