@@ -268,6 +268,12 @@
       "prefectures.txt"
     ]
   },
+  "prime_minister_of_japan": {
+    "long_name": "内閣総理大臣",
+    "contain": [
+      "prime_minister_of_japan.txt"
+    ]
+  },
   "residents-doumori": {
     "long_name": "『どうぶつの森』シリーズの住民の名前",
     "contain": [
