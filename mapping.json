@@ -129,6 +129,12 @@
       "hokkaido.txt"
     ]
   },
+  "hurricane": {
+    "long_name": "ハリケーンの名前",
+    "contain": [
+      "hurricane.txt"
+    ]
+  },
   "ibaraki": {
     "long_name": "茨城県の市町村",
     "contain": [
