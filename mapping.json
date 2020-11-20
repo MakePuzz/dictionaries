@@ -172,6 +172,12 @@
       "kyushu"
     ]
   },
+  "japanese-mythology": {
+    "long_name": "日本神話の神",
+    "contain": [
+      "japanese-mythology.txt"
+    ]
+  },
   "kanto": {
     "long_name": "関東地方の市町村",
     "contain": [
