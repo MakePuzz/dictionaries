@@ -81,6 +81,12 @@
       "elements.txt"
     ]
   },
+  "emperor": {
+    "long_name": "天皇",
+    "contain": [
+      "emperor.txt"
+    ]
+  },
   "fishes": {
     "long_name": "魚の名前",
     "contain": [
@@ -179,10 +185,10 @@
     ]
   },
   "kimetsu-no-yaiba": {
-      "long_name": "『鬼滅の刃』の登場人物",
-      "include": [
-        "kimetsu-no-yaiba.txt"
-      ]
+    "long_name": "『鬼滅の刃』の登場人物",
+    "include": [
+      "kimetsu-no-yaiba.txt"
+    ]
   },
   "kinki": {
     "long_name": "近畿地方の市町村",
@@ -336,13 +342,13 @@
       "typhoon.txt"
     ]
   },
-    "us_states_en": {
+  "us_states_en": {
     "long_name": "States of the United States",
     "contain": [
       "us_states_en.txt"
     ]
   },
-    "us_states_ja": {
+  "us_states_ja": {
     "long_name": "アメリカの州",
     "contain": [
       "us_states_ja.txt"
