@@ -63,6 +63,12 @@
       "color.txt"
     ]
   },
+  "constellation_ja": {
+    "long_name": "星座",
+    "contain": [
+      "constellation_ja.txt"
+    ]
+  },
   "countries": {
     "long_name": "国の名前",
     "contain": [
