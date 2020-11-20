@@ -184,6 +184,12 @@
       "japanese-mythology.txt"
     ]
   },
+  "japanese-university": {
+    "long_name": "日本の大学",
+    "contain": [
+      "japanese-university.txt"
+    ]
+  },
   "kanto": {
     "long_name": "関東地方の市町村",
     "contain": [
