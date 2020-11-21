@@ -220,7 +220,19 @@
       "kimetsu-no-yaiba.txt"
     ]
   },
-  "kinki": {
+    "kimetsu_word_all": {
+    "long_name": "『鬼滅の刃』の関連単語(すべて)",
+    "include": [
+      "kimetsu_word_.txt"
+    ]
+  },
+    "kimetsu_word_mugen": {
+    "long_name": "『鬼滅の刃』の関連単語(無限列車まで)",
+    "include": [
+      "kimetsu_word_mugen.txt"
+    ]
+  },
+    "kinki": {
     "long_name": "近畿地方の市町村",
     "contain": [
       "shiga.txt",
