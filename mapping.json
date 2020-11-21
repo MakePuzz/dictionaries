@@ -184,12 +184,6 @@
       "kyushu"
     ]
   },
-  "japanese-era_kanji": {
-    "long_name": "日本の元号",
-    "contain": [
-      "japanese-era_kanji.txt"
-    ]
-  },
   "japanese-era_katakana": {
     "long_name": "日本の元号",
     "contain": [
