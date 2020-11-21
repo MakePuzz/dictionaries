@@ -135,6 +135,12 @@
       "greek_mythology.txt"
     ]
   },
+  "harry-potter_ja": {
+    "long_name": "『ハリー・ポッター』の登場人物",
+    "contain": [
+      "harry-potter_ja.txt"
+    ]
+  },
   "hokkaido": {
     "long_name": "北海道の市町村",
     "contain": [
