@@ -221,13 +221,13 @@
     ]
   },
     "kimetsu_words_all": {
-    "long_name": "『鬼滅の刃』の関連単語(すべて)",
+    "long_name": "『鬼滅の刃』の関連語",
     "contain": [
       "kimetsu_words_all.txt"
     ]
   },
     "kimetsu_words_mugen": {
-    "long_name": "『鬼滅の刃』の関連単語(無限列車まで)",
+    "long_name": "『鬼滅の刃』の関連語（無限列車編まで）",
     "contain": [
       "kimetsu_words_mugen.txt"
     ]
