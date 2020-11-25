@@ -220,12 +220,12 @@
       "kimetsu-no-yaiba.txt"
     ]
   },
-    "kimetsu_words_all": {
-    "long_name": "『鬼滅の刃』の関連語",
-    "contain": [
-      "kimetsu_words_all.txt"
-    ]
-  },
+  //   "kimetsu_words_all": {
+  //   "long_name": "『鬼滅の刃』の関連語",
+  //   "contain": [
+  //     "kimetsu_words_all.txt"
+  //   ]
+  // },
     "kimetsu_words_mugen": {
     "long_name": "『鬼滅の刃』の関連語（無限列車編まで）",
     "contain": [
