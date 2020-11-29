@@ -355,6 +355,12 @@
       "kochi.txt"
     ]
   },
+  "station_hokkaido": {
+    "long_name": "北海道の駅",
+    "contain": [
+      "station_hokkaido.txt"
+    ]
+  },
   "sports": {
     "long_name": "スポーツの名前",
     "contain": [
