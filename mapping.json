@@ -1,10 +1,4 @@
 {
-  "kimetsu_words_mugen_old": {
-    "long_name": "debug",
-    "contain": [
-      "kimetsu_words_mugen_old.txt"
-    ]
-  },
   "aichi": {
     "long_name": "愛知県の市町村",
     "contain": [
