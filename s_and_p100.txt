@@ -73,7 +73,7 @@ Nike
 NvidiaCorporation
 OracleCorporation
 OccidentalPetroleum
-PepsiCo
+Pepsi
 Pfizer
 Procter&Gamble
 PhilipMorrisInternational
