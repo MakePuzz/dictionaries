@@ -379,6 +379,18 @@
       "station_aomori.txt"
     ]
   },
+  "station_chiba": {
+    "long_name": "千葉県の駅",
+    "contain": [
+      "station_chiba.txt"
+    ]
+  },
+  "station_fukui": {
+    "long_name": "福井県の駅",
+    "contain": [
+      "station_fukui.txt"
+    ]
+  },
   "station_fukushima": {
     "long_name": "福島県の駅",
     "contain": [
@@ -391,10 +403,22 @@
       "station_hokkaido.txt"
     ]
   },
+  "station_ishikawa": {
+    "long_name": "石川県の駅",
+    "contain": [
+      "station_ishikawa.txt"
+    ]
+  },
   "station_iwate": {
     "long_name": "岩手県の駅",
     "contain": [
       "station_iwate.txt"
+    ]
+  },
+  "station_kanagawa": {
+    "long_name": "神奈川県の駅",
+    "contain": [
+      "station_kanagawa.txt"
     ]
   },
   "station_miyagi": {
@@ -413,6 +437,24 @@
     "long_name": "新潟県の駅",
     "contain": [
       "station_nigata.txt"
+    ]
+  },
+  "station_saitama": {
+    "long_name": "埼玉県の駅",
+    "contain": [
+      "station_saitama.txt"
+    ]
+  },
+  "station_tokyo": {
+    "long_name": "東京都の駅",
+    "contain": [
+      "station_tokyo.txt"
+    ]
+  },
+  "station_toyama": {
+    "long_name": "富山県の駅",
+    "contain": [
+      "station_toyama.txt"
     ]
   },
   "station_yamagata": {
