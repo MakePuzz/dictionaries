@@ -552,4 +552,11 @@
       "zatch-bell.txt"
     ]
   }
+    },
+  "anpanman": {
+    "long_name": "アンパンマンの登場人物",
+    "contain": [
+      "anpanman_character_wiki.txt"
+    ]
+  }
 }
