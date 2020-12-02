@@ -221,7 +221,7 @@
     ]
   },
     "kimetsu_words_all": {
-    "long_name": "『鬼滅の刃』の関連語（すべて）",
+    "long_name": "『鬼滅の刃』の関連語",
     "contain": [
       "kimetsu_words_all.txt"
     ]
