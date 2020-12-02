@@ -1,0 +1,388 @@
+---
+aichi:
+  long_name: 愛知県の市町村
+  contain:
+  - aichi.txt
+animals:
+  long_name: 動物の名前
+  contain:
+  - animals.txt
+beef:
+  long_name: 肉の種類
+  contain:
+  - beef.txt
+birds:
+  long_name: 鳥の名前
+  contain:
+  - birds.txt
+cats:
+  long_name: 猫の名前
+  contain:
+  - cats.txt
+chiba:
+  long_name: 千葉県の市町村
+  contain:
+  - chiba.txt
+chubu:
+  long_name: 中部地方の市町村
+  contain:
+  - yamanashi.txt
+  - nagano.txt
+  - nigata.txt
+  - toyama.txt
+  - ishikawa.txt
+  - fukui.txt
+  - mie.txt
+chugoku:
+  long_name: 中国地方の市町村
+  contain:
+  - tottori.txt
+  - shimane.txt
+  - okayama.txt
+  - hiroshima.txt
+  - yamaguchi.txt
+color:
+  long_name: 色の名前
+  contain:
+  - color.txt
+constellation_ja:
+  long_name: 星座
+  contain:
+  - constellation_ja.txt
+countries:
+  long_name: 国の名前
+  contain:
+  - countries.txt
+dinosaurs:
+  long_name: 恐竜の名前
+  contain:
+  - dinosaurs.txt
+elements:
+  long_name: 元素の名前
+  contain:
+  - elements.txt
+emperor:
+  long_name: 天皇
+  contain:
+  - emperor.txt
+fishes:
+  long_name: 魚の名前
+  contain:
+  - fishes.txt
+fruit-vegetable_english:
+  long_name: fruit and vegetables
+  contain:
+  - fruit-vegetable_english.txt
+fruit-vegetable_japanese:
+  long_name: 野菜・果物の名前
+  contain:
+  - fruit-vegetable_japanese.txt
+fukushima:
+  long_name: 福島県の市町村
+  contain:
+  - fukushima.txt
+fukuoka:
+  long_name: 福岡県の市町村
+  contain:
+  - fukuoka.txt
+gemstones_katakana:
+  long_name: 宝石の名前
+  contain:
+  - gemstones_katakana.txt
+greek_mythology:
+  long_name: ギリシア神話の登場人物
+  contain:
+  - greek_mythology.txt
+harry-potter_ja:
+  long_name: "『ハリー・ポッター』の登場人物"
+  contain:
+  - harry-potter_ja.txt
+hokkaido:
+  long_name: 北海道の市町村
+  contain:
+  - hokkaido.txt
+hurricane:
+  long_name: ハリケーンの名前
+  contain:
+  - hurricane.txt
+ibaraki:
+  long_name: 茨城県の市町村
+  contain:
+  - ibaraki.txt
+instrument_english:
+  long_name: instrument
+  contain:
+  - instrument_english.txt
+instrument_japanese:
+  long_name: 楽器の名前
+  contain:
+  - instrument_japanese.txt
+japan:
+  long_name: 日本の市町村
+  contain:
+  - hokkaido.txt
+  - tohoku
+  - kanto
+  - chubu
+  - kinki
+  - chugoku
+  - shikoku
+  - kyushu
+japanese-era_katakana:
+  long_name: 日本の元号
+  contain:
+  - japanese-era_katakana.txt
+japanese-mythology:
+  long_name: 日本神話の神
+  contain:
+  - japanese-mythology.txt
+japanese-university:
+  long_name: 日本の大学
+  contain:
+  - japanese-university.txt
+kanto:
+  long_name: 関東地方の市町村
+  contain:
+  - ibaraki.txt
+  - tochigi.txt
+  - gunma.txt
+  - saitama.txt
+  - chiba.txt
+  - tokyo.txt
+  - kanagawa.txt
+kimetsu-no-yaiba:
+  long_name: "『鬼滅の刃』の登場人物"
+  include:
+  - kimetsu-no-yaiba.txt
+kimetsu_words_all:
+  long_name: "『鬼滅の刃』の関連語"
+  contain:
+  - kimetsu_words_all.txt
+kimetsu_words_mugen:
+  long_name: "『鬼滅の刃』の関連語（無限列車編まで）"
+  contain:
+  - kimetsu_words_mugen.txt
+kinki:
+  long_name: 近畿地方の市町村
+  contain:
+  - shiga.txt
+  - kyoto.txt
+  - osaka.txt
+  - hyogo.txt
+  - nara.txt
+  - wakayama.txt
+kotowaza:
+  long_name: ことわざ
+  contain:
+  - kotowaza.txt
+kumamoto:
+  long_name: 熊本県の市町村
+  contain:
+  - kumamoto.txt
+kyushu:
+  long_name: 九州地方の市町村
+  contain:
+  - fukuoka.txt
+  - saga.txt
+  - nagasaki.txt
+  - kumamoto.txt
+  - ooita.txt
+  - miyazaki.txt
+  - kagoshima.txt
+  - okinawa.txt
+meteorology_ja:
+  long_name: 気象学用語
+  contain:
+  - meteorology_ja.txt
+nagano:
+  long_name: 長野県の市町村
+  contain:
+  - nagano.txt
+naruto:
+  long_name: "『NARUTO』の登場人物"
+  contain:
+  - naruto.txt
+national_capital_japanese:
+  long_name: 世界の国の首都
+  contain:
+  - national_capital_japanese.txt
+onepiece:
+  long_name: "『ONE PIECE』の登場人物"
+  contain:
+  - onepiece.txt
+osaka:
+  long_name: 大阪府の市町村
+  contain:
+  - osaka.txt
+pokemon:
+  long_name: ポケモンの名前
+  contain:
+  - pokemon.txt
+pokemon_kanto:
+  long_name: ポケモンの名前（カントー地方）
+  contain:
+  - pokemon_kanto.txt
+prefectures:
+  long_name: 都道府県の名前
+  contain:
+  - prefectures.txt
+prime_minister_of_japan:
+  long_name: 内閣総理大臣
+  contain:
+  - prime_minister_of_japan.txt
+residents-doumori:
+  long_name: "『どうぶつの森』シリーズの住民の名前"
+  contain:
+  - residents-doumori.txt
+s_and_p100:
+  long_name: Components of S&P 100
+  contain:
+  - s_and_p100.txt
+sake:
+  long_name: 酒の種類
+  contain:
+  - sake.txt
+shikoku:
+  long_name: 四国地方の市町村
+  contain:
+  - kagawa.txt
+  - ehime.txt
+  - tokushima.txt
+  - kochi.txt
+sports:
+  long_name: スポーツの名前
+  contain:
+  - sports.txt
+station_aichi:
+  long_name: 愛知県の駅
+  contain:
+  - station_aichi.txt
+station_akita:
+  long_name: 秋田県の駅
+  contain:
+  - station_akita.txt
+station_aomori:
+  long_name: 青森県の駅
+  contain:
+  - station_aomori.txt
+station_chiba:
+  long_name: 千葉県の駅
+  contain:
+  - station_chiba.txt
+station_fukui:
+  long_name: 福井県の駅
+  contain:
+  - station_fukui.txt
+station_fukushima:
+  long_name: 福島県の駅
+  contain:
+  - station_fukushima.txt
+station_gifu:
+  long_name: 岐阜県の駅
+  contain:
+  - station_gifu.txt
+station_gunma:
+  long_name: 群馬県の駅
+  contain:
+  - station_gunma.txt
+station_hokkaido:
+  long_name: 北海道の駅
+  contain:
+  - station_hokkaido.txt
+station_ibaraki:
+  long_name: 茨城県の駅
+  contain:
+  - station_ibaraki.txt
+station_ishikawa:
+  long_name: 石川県の駅
+  contain:
+  - station_ishikawa.txt
+station_iwate:
+  long_name: 岩手県の駅
+  contain:
+  - station_iwate.txt
+station_kanagawa:
+  long_name: 神奈川県の駅
+  contain:
+  - station_kanagawa.txt
+station_mie:
+  long_name: 三重県の駅
+  contain:
+  - station_mie.txt
+station_miyagi:
+  long_name: 宮城県の駅
+  contain:
+  - station_miyagi.txt
+station_nagano:
+  long_name: 長野県の駅
+  contain:
+  - station_nagano.txt
+station_nigata:
+  long_name: 新潟県の駅
+  contain:
+  - station_nigata.txt
+station_saitama:
+  long_name: 埼玉県の駅
+  contain:
+  - station_saitama.txt
+station_shizuoka:
+  long_name: 静岡県の駅
+  contain:
+  - station_shizuoka.txt
+station_tochigi:
+  long_name: 栃木県の駅
+  contain:
+  - station_tochigi.txt
+station_tokyo:
+  long_name: 東京都の駅
+  contain:
+  - station_tokyo.txt
+station_toyama:
+  long_name: 富山県の駅
+  contain:
+  - station_toyama.txt
+station_yamagata:
+  long_name: 山形県の駅
+  contain:
+  - station_yamagata.txt
+station_yamanashi:
+  long_name: 山梨県の駅
+  contain:
+  - station_yamanashi.txt
+tokyo:
+  long_name: 東京都の市区町村
+  contain:
+  - tokyo.txt
+tohoku:
+  long_name: 東北地方の市町村
+  contain:
+  - aomori.txt
+  - iwate.txt
+  - akita.txt
+  - yamagata.txt
+  - fukushima.txt
+  - miyagi.txt
+typhoon:
+  long_name: Typhoon names
+  contain:
+  - typhoon.txt
+us_states_en:
+  long_name: States of the United States
+  contain:
+  - us_states_en.txt
+us_states_ja:
+  long_name: アメリカの州
+  contain:
+  - us_states_ja.txt
+western_color:
+  long_name: 色の名前（洋色）
+  contain:
+  - western_color.txt
+zatch-bell:
+  long_name: "『金色のガッシュ!!』の登場人物"
+  contain:
+  - zatch-bell.txt
+anpanman:
+  long_name: アンパンマンの登場人物
+  contain:
+  - anpanman_character_wiki.txt
