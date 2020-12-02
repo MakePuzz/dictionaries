@@ -334,10 +334,18 @@ station_gunma:
   long_name: 群馬県の駅
   contain:
   - station_gunma.txt
+station_hiroshima:
+  long_name: 広島県の駅
+  contain:
+  - station_hiroshima.txt
 station_hokkaido:
   long_name: 北海道の駅
   contain:
   - station_hokkaido.txt
+station_hyougo:
+  long_name: 兵庫県の駅
+  contain:
+  - station_hyougo.txt
 station_ibaraki:
   long_name: 茨城県の駅
   contain:
@@ -354,6 +362,10 @@ station_kanagawa:
   long_name: 神奈川県の駅
   contain:
   - station_kanagawa.txt
+station_kyoto:
+  long_name: 京都府の駅
+  contain:
+  - station_kyoto.txt
 station_mie:
   long_name: 三重県の駅
   contain:
@@ -366,14 +378,34 @@ station_nagano:
   long_name: 長野県の駅
   contain:
   - station_nagano.txt
+station_nara:
+  long_name: 奈良県の駅
+  contain:
+  - station_nara.txt
 station_nigata:
   long_name: 新潟県の駅
   contain:
   - station_nigata.txt
+station_okayama:
+  long_name: 岡山県の駅
+  contain:
+  - station_okayama.txt
+station_osaka:
+  long_name: 大阪府の駅
+  contain:
+  - station_osaka.txt
 station_saitama:
   long_name: 埼玉県の駅
   contain:
   - station_saitama.txt
+station_shiga:
+  long_name: 滋賀県の駅
+  contain:
+  - station_shiga.txt
+station_shimane:
+  long_name: 島根県の駅
+  contain:
+  - station_shimane.txt
 station_shizuoka:
   long_name: 静岡県の駅
   contain:
@@ -386,10 +418,18 @@ station_tokyo:
   long_name: 東京都の駅
   contain:
   - station_tokyo.txt
+station_tottori:
+  long_name: 鳥取県の駅
+  contain:
+  - station_tottori.txt
 station_toyama:
   long_name: 富山県の駅
   contain:
   - station_toyama.txt
+station_wakayama:
+  long_name: 和歌山県の駅
+  contain:
+  - station_wakayama.txt
 station_yamagata:
   long_name: 山形県の駅
   contain:
