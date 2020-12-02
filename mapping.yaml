@@ -275,6 +275,10 @@ pokemon_kanto:
   long_name: ポケモンの名前（カントー地方）
   contain:
   - pokemon_kanto.txt
+precure:
+  long_name: プリキュアと相棒の妖精の名前
+  contain:
+  - precure.txt
 prefectures:
   long_name: 都道府県の名前
   contain:
