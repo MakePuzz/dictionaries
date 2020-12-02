@@ -102,6 +102,10 @@ countries:
   long_name: 国の名前
   contain:
   - countries.txt
+digimon:
+  long_name: デジモンの名前
+  contain:
+  - digimon.txt
 dinosaurs:
   long_name: 恐竜の名前
   contain:
