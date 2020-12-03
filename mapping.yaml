@@ -95,7 +95,7 @@ color:
   contain:
   - color.txt
 conan_movie:
-  long_name: 「劇場版名探偵コナン」のタイトル
+  long_name: 『劇場版名探偵コナン』のタイトル
   contain:
   - conan_movie.txt
 constellation_ja:
