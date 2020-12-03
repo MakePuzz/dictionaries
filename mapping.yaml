@@ -94,6 +94,10 @@ color:
   long_name: 色の名前
   contain:
   - color.txt
+conan_movie:
+  long_name: 「名探偵コナン」の劇場版のタイトル
+  contain:
+  - conan_movie.txt
 constellation_ja:
   long_name: 星座
   contain:
