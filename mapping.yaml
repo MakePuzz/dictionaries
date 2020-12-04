@@ -60,6 +60,10 @@ beef:
   long_name: 肉の種類
   contain:
   - beef.txt
+biology_words:
+  long_name: 高校生物の重要語句
+  contain:
+  - biology_words.txt
 birds:
   long_name: 鳥の名前
   contain:
