@@ -382,6 +382,10 @@ station_kagawa:
   long_name: 香川県の駅
   contain:
   - station_kagawa.txt
+station_kagoshima:
+  long_name: 鹿児島県の駅
+  contain:
+  - station_kagoshima.txt
 station_kanagawa:
   long_name: 神奈川県の駅
   contain:
@@ -390,6 +394,10 @@ station_kouchi:
   long_name: 高知県の駅
   contain:
   - station_kouchi.txt
+station_kumamoto:
+  long_name: 熊本県の駅
+  contain:
+  - station_kumamoto.txt
 station_kyoto:
   long_name: 京都府の駅
   contain:
@@ -402,6 +410,10 @@ station_miyagi:
   long_name: 宮城県の駅
   contain:
   - station_miyagi.txt
+station_miyazaki:
+  long_name: 宮崎県の駅
+  contain:
+  - station_miyazaki.txt
 station_nagano:
   long_name: 長野県の駅
   contain:
@@ -422,6 +434,14 @@ station_okayama:
   long_name: 岡山県の駅
   contain:
   - station_okayama.txt
+station_okinawa:
+  long_name: 沖縄県の駅
+  contain:
+  - station_okinawa.txt
+station_ooita:
+  long_name: 大分県の駅
+  contain:
+  - station_ooita.txt
 station_osaka:
   long_name: 大阪府の駅
   contain:
