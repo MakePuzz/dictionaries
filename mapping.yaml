@@ -295,6 +295,10 @@ prime_minister_of_japan:
   long_name: 内閣総理大臣
   contain:
   - prime_minister_of_japan.txt
+railroad_third:
+  long_name: "全国地方鉄道の名前"
+  contain:
+  - railroad_third.txt
 residents-doumori:
   long_name: "『どうぶつの森』シリーズの住民の名前"
   contain:
