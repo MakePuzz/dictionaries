@@ -318,194 +318,92 @@ sports:
   long_name: スポーツの名前
   contain:
   - sports.txt
-station_aichi:
-  long_name: 愛知県の駅
+station_japan:
+  long_name: 日本の鉄道駅
   contain:
-  - station_aichi.txt
-station_akita:
-  long_name: 秋田県の駅
-  contain:
-  - station_akita.txt
-station_aomori:
-  long_name: 青森県の駅
-  contain:
-  - station_aomori.txt
-station_chiba:
-  long_name: 千葉県の駅
-  contain:
-  - station_chiba.txt
-station_ehime:
-  long_name: 愛媛県の駅
-  contain:
-  - station_ehime.txt
-station_fukui:
-  long_name: 福井県の駅
-  contain:
-  - station_fukui.txt
-station_fukuoka:
-  long_name: 福岡県の駅
-  contain:
-  - station_fukuoka.txt
-station_fukushima:
-  long_name: 福島県の駅
-  contain:
-  - station_fukushima.txt
-station_gifu:
-  long_name: 岐阜県の駅
-  contain:
-  - station_gifu.txt
-station_gunma:
-  long_name: 群馬県の駅
-  contain:
-  - station_gunma.txt
-station_hiroshima:
-  long_name: 広島県の駅
-  contain:
-  - station_hiroshima.txt
-station_hokkaido:
-  long_name: 北海道の駅
+  - station_hokkaido_tohoku
+  - station_kanto
+  - station_tokai
+  - station_koushinnetsu
+  - station_hokuriku
+  - station_kansai
+  - station_shikoku
+  - station_chugoku
+  - station_kyushu
+station_hokkaido_tohoku:
+  long_name: 北海道と東北地方の鉄道駅
   contain:
   - station_hokkaido.txt
-station_hyougo:
-  long_name: 兵庫県の駅
-  contain:
-  - station_hyougo.txt
-station_ibaraki:
-  long_name: 茨城県の駅
-  contain:
-  - station_ibaraki.txt
-station_ishikawa:
-  long_name: 石川県の駅
-  contain:
-  - station_ishikawa.txt
-station_iwate:
-  long_name: 岩手県の駅
-  contain:
+  - station_aomori.txt
+  - station_akita.txt
+  - station_fukushima.txt
   - station_iwate.txt
-station_kagawa:
-  long_name: 香川県の駅
-  contain:
-  - station_kagawa.txt
-station_kagoshima:
-  long_name: 鹿児島県の駅
-  contain:
-  - station_kagoshima.txt
-station_kanagawa:
-  long_name: 神奈川県の駅
-  contain:
-  - station_kanagawa.txt
-station_kouchi:
-  long_name: 高知県の駅
-  contain:
-  - station_kouchi.txt
-station_kumamoto:
-  long_name: 熊本県の駅
-  contain:
-  - station_kumamoto.txt
-station_kyoto:
-  long_name: 京都府の駅
-  contain:
-  - station_kyoto.txt
-station_mie:
-  long_name: 三重県の駅
-  contain:
-  - station_mie.txt
-station_miyagi:
-  long_name: 宮城県の駅
-  contain:
   - station_miyagi.txt
-station_miyazaki:
-  long_name: 宮崎県の駅
-  contain:
-  - station_miyazaki.txt
-station_nagano:
-  long_name: 長野県の駅
-  contain:
-  - station_nagano.txt
-station_nagasaki:
-  long_name: 長崎県の駅
-  contain:
-  - station_nagasaki.txt
-station_nara:
-  long_name: 奈良県の駅
-  contain:
-  - station_nara.txt
-station_nigata:
-  long_name: 新潟県の駅
-  contain:
-  - station_nigata.txt
-station_okayama:
-  long_name: 岡山県の駅
-  contain:
-  - station_okayama.txt
-station_okinawa:
-  long_name: 沖縄県の駅
-  contain:
-  - station_okinawa.txt
-station_ooita:
-  long_name: 大分県の駅
-  contain:
-  - station_ooita.txt
-station_osaka:
-  long_name: 大阪府の駅
-  contain:
-  - station_osaka.txt
-station_saga:
-  long_name: 佐賀県の駅
-  contain:
-  - station_saga.txt
-station_saitama:
-  long_name: 埼玉県の駅
-  contain:
-  - station_saitama.txt
-station_shiga:
-  long_name: 滋賀県の駅
-  contain:
-  - station_shiga.txt
-station_shimane:
-  long_name: 島根県の駅
-  contain:
-  - station_shimane.txt
-station_shizuoka:
-  long_name: 静岡県の駅
-  contain:
-  - station_shizuoka.txt
-station_tochigi:
-  long_name: 栃木県の駅
-  contain:
-  - station_tochigi.txt
-station_tokushima:
-  long_name: 徳島県の駅
-  contain:
-  - station_tokushima.txt
-station_tokyo:
-  long_name: 東京都の駅
-  contain:
-  - station_tokyo.txt
-station_tottori:
-  long_name: 鳥取県の駅
-  contain:
-  - station_tottori.txt
-station_toyama:
-  long_name: 富山県の駅
-  contain:
-  - station_toyama.txt
-station_wakayama:
-  long_name: 和歌山県の駅
-  contain:
-  - station_wakayama.txt
-station_yamagata:
-  long_name: 山形県の駅
-  contain:
   - station_yamagata.txt
-station_yamaguchi:
-  long_name: 山口県の駅
+station_kanto:
+  long_name: 関東地方の鉄道駅
   contain:
-  - station_yamaguchi.txt
-station_yamanashi:
-  long_name: 山梨県の駅
+  - station_chiba.txt
+  - station_gunma.txt
+  - station_ibaraki.txt
+  - station_tokyo.txt
+  - station_kanagawa.txt
+  - station_saitama.txt
+  - station_tochigi.txt
+station_tokai:
+  long_name: 東海地方の鉄道駅
+  contain:
+  - station_aichi.txt
+  - station_shizuoka.txt
+  - station_gifu.txt
+  - station_mie.txt
+station_koushinnetsu:
+  long_name: 甲信越地方の鉄道駅
   contain:
   - station_yamanashi.txt
+  - station_nagano.txt
+  - station_nigata.txt
+station_hokuriku:
+  long_name: 北陸地方の鉄道駅
+  contain:
+  - station_toyama.txt
+  - station_ishikawa.txt
+  - station_fukui.txt
+station_kansai:
+  long_name: 関西地方の鉄道駅
+  contain:
+  - station_osaka.txt
+  - station_kyoto.txt
+  - station_hyougo.txt
+  - station_nara.txt
+  - station_shiga.txt
+  - station_wakayama.txt
+station_shikoku:
+  long_name: 四国地方の鉄道駅
+  contain:
+  - station_tokushima.txt
+  - station_kagawa.txt
+  - station_ehime.txt
+  - station_kouchi.txt
+station_chugoku:
+  long_name: 中国地方の鉄道駅
+  contain:
+  - station_okayama.txt
+  - station_hiroshima.txt
+  - station_tottori.txt
+  - station_shimane.txt
+  - station_yamaguchi.txt
+station_kyushu:
+  long_name: 九州地方の鉄道駅
+  contain:
+  - station_fukuoka.txt
+  - station_saga.txt
+  - station_nagasaki.txt
+  - station_kumamoto.txt
+  - station_ooita.txt
+  - station_miyazaki.txt
+  - station_kagoshima.txt
+  - station_okinawa.txt
 tokyo:
   long_name: 東京都の市区町村
   contain:
@@ -543,3 +441,191 @@ anpanman:
   long_name: アンパンマンの登場人物
   contain:
   - anpanman_character_wiki.txt
+# station_aichi:
+#   long_name: 愛知県の駅
+#   contain:
+#   - station_aichi.txt
+# station_akita:
+#   long_name: 秋田県の駅
+#   contain:
+#   - station_akita.txt
+# station_aomori:
+#   long_name: 青森県の駅
+#   contain:
+#   - station_aomori.txt
+# station_chiba:
+#   long_name: 千葉県の駅
+#   contain:
+#   - station_chiba.txt
+# station_ehime:
+#   long_name: 愛媛県の駅
+#   contain:
+#   - station_ehime.txt
+# station_fukui:
+#   long_name: 福井県の駅
+#   contain:
+#   - station_fukui.txt
+# station_fukuoka:
+#   long_name: 福岡県の駅
+#   contain:
+#   - station_fukuoka.txt
+# station_fukushima:
+#   long_name: 福島県の駅
+#   contain:
+#   - station_fukushima.txt
+# station_gifu:
+#   long_name: 岐阜県の駅
+#   contain:
+#   - station_gifu.txt
+# station_gunma:
+#   long_name: 群馬県の駅
+#   contain:
+#   - station_gunma.txt
+# station_hiroshima:
+#   long_name: 広島県の駅
+#   contain:
+#   - station_hiroshima.txt
+# station_hokkaido:
+#   long_name: 北海道の駅
+#   contain:
+#   - station_hokkaido.txt
+# station_hyougo:
+#   long_name: 兵庫県の駅
+#   contain:
+#   - station_hyougo.txt
+# station_ibaraki:
+#   long_name: 茨城県の駅
+#   contain:
+#   - station_ibaraki.txt
+# station_ishikawa:
+#   long_name: 石川県の駅
+#   contain:
+#   - station_ishikawa.txt
+# station_iwate:
+#   long_name: 岩手県の駅
+#   contain:
+#   - station_iwate.txt
+# station_kagawa:
+#   long_name: 香川県の駅
+#   contain:
+#   - station_kagawa.txt
+# station_kagoshima:
+#   long_name: 鹿児島県の駅
+#   contain:
+#   - station_kagoshima.txt
+# station_kanagawa:
+#   long_name: 神奈川県の駅
+#   contain:
+#   - station_kanagawa.txt
+# station_kouchi:
+#   long_name: 高知県の駅
+#   contain:
+#   - station_kouchi.txt
+# station_kumamoto:
+#   long_name: 熊本県の駅
+#   contain:
+#   - station_kumamoto.txt
+# station_kyoto:
+#   long_name: 京都府の駅
+#   contain:
+#   - station_kyoto.txt
+# station_mie:
+#   long_name: 三重県の駅
+#   contain:
+#   - station_mie.txt
+# station_miyagi:
+#   long_name: 宮城県の駅
+#   contain:
+#   - station_miyagi.txt
+# station_miyazaki:
+#   long_name: 宮崎県の駅
+#   contain:
+#   - station_miyazaki.txt
+# station_nagano:
+#   long_name: 長野県の駅
+#   contain:
+#   - station_nagano.txt
+# station_nagasaki:
+#   long_name: 長崎県の駅
+#   contain:
+#   - station_nagasaki.txt
+# station_nara:
+#   long_name: 奈良県の駅
+#   contain:
+#   - station_nara.txt
+# station_nigata:
+#   long_name: 新潟県の駅
+#   contain:
+#   - station_nigata.txt
+# station_okayama:
+#   long_name: 岡山県の駅
+#   contain:
+#   - station_okayama.txt
+# station_okinawa:
+#   long_name: 沖縄県の駅
+#   contain:
+#   - station_okinawa.txt
+# station_ooita:
+#   long_name: 大分県の駅
+#   contain:
+#   - station_ooita.txt
+# station_osaka:
+#   long_name: 大阪府の駅
+#   contain:
+#   - station_osaka.txt
+# station_saga:
+#   long_name: 佐賀県の駅
+#   contain:
+#   - station_saga.txt
+# station_saitama:
+#   long_name: 埼玉県の駅
+#   contain:
+#   - station_saitama.txt
+# station_shiga:
+#   long_name: 滋賀県の駅
+#   contain:
+#   - station_shiga.txt
+# station_shimane:
+#   long_name: 島根県の駅
+#   contain:
+#   - station_shimane.txt
+# station_shizuoka:
+#   long_name: 静岡県の駅
+#   contain:
+#   - station_shizuoka.txt
+# station_tochigi:
+#   long_name: 栃木県の駅
+#   contain:
+#   - station_tochigi.txt
+# station_tokushima:
+#   long_name: 徳島県の駅
+#   contain:
+#   - station_tokushima.txt
+# station_tokyo:
+#   long_name: 東京都の駅
+#   contain:
+#   - station_tokyo.txt
+# station_tottori:
+#   long_name: 鳥取県の駅
+#   contain:
+#   - station_tottori.txt
+# station_toyama:
+#   long_name: 富山県の駅
+#   contain:
+#   - station_toyama.txt
+# station_wakayama:
+#   long_name: 和歌山県の駅
+#   contain:
+#   - station_wakayama.txt
+# station_yamagata:
+#   long_name: 山形県の駅
+#   contain:
+#   - station_yamagata.txt
+# station_yamaguchi:
+#   long_name: 山口県の駅
+#   contain:
+#   - station_yamaguchi.txt
+# station_yamanashi:
+#   long_name: 山梨県の駅
+#   contain:
+#   - station_yamanashi.txt
