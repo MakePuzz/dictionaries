@@ -251,6 +251,14 @@ kyushu:
   - miyazaki.txt
   - kagoshima.txt
   - okinawa.txt
+maids_athomecafe:
+  long_name: 『アットホームカフェ』のメイドさんの名前
+  contain:
+  - maids_athomecafe.txt
+maids_maidreamin:
+  long_name: 『めいどりーみん』のメイドさんの名前
+  contain:
+  - maids_maidreamin.txt
 meteorology_ja:
   long_name: 気象学用語
   contain:
