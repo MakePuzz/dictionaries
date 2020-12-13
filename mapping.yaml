@@ -213,7 +213,7 @@ kanto:
     - kanagawa.txt
 kimetsu-no-yaiba:
   long_name: "『鬼滅の刃』の登場人物"
-  include:
+  contain:
     - kimetsu-no-yaiba.txt
 kimetsu_words_all:
   long_name: "『鬼滅の刃』の関連語"
