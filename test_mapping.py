@@ -1,9 +1,10 @@
 # %%
 import yaml
+import os
 
 
 with open("mapping.yaml", "r") as f:
-    mappings = yaml.load(f)
+    mappings = yaml.load(f, Loader=yaml.FullLoader)
 
 # %%
 def add_invalid_mapping(mapping, invalid_mapping):
