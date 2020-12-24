@@ -122,6 +122,10 @@ dinosaurs:
   long_name: 恐竜の名前
   contain:
     - dinosaurs.txt
+dogs:
+  long_name: 犬種
+  contain:
+    - dogss.txt
 donotlaugh:
   long_name: ガキ使・笑ってはいけないシリーズのテーマ
   contain:
