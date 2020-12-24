@@ -94,6 +94,10 @@ chugoku:
     - okayama.txt
     - hiroshima.txt
     - yamaguchi.txt
+christmas_words:
+  long_name: クリスマスの関連語
+  contain:
+    - christmas_words.txt
 color:
   long_name: 色の名前
   contain:
@@ -118,6 +122,10 @@ dinosaurs:
   long_name: 恐竜の名前
   contain:
     - dinosaurs.txt
+donotlaugh:
+  long_name: ガキ使・笑ってはいけないシリーズのテーマ
+  contain:
+    - donotlaugh.txt
 elements:
   long_name: 元素の名前
   contain:
@@ -251,6 +259,10 @@ kyushu:
     - miyazaki.txt
     - kagoshima.txt
     - okinawa.txt
+lovelive_member:
+  long_name: 『ラブライブ』シリーズのスクールアイドル
+  contain:
+    - lovelive_member.txt
 maids_athomecafe:
   long_name: 『アットホームカフェ』のメイドさんの名前
   contain:
@@ -275,6 +287,10 @@ national_capital_japanese:
   long_name: 世界の国の首都
   contain:
     - national_capital_japanese.txt
+netfashion_2020:
+  long_name: ネット流行語2020
+  contain:
+    - netfashion_2020.txt
 onepiece:
   long_name: "『ONE PIECE』の登場人物"
   contain:
@@ -330,6 +346,10 @@ sports:
   long_name: スポーツの名前
   contain:
     - sports.txt
+singers_kouhaku_2020:
+  long_name: 2020年紅白歌合戦の出場歌手
+  contain:
+    - singers_kouhaku_2020.txt
 station_japan:
   long_name: 日本の鉄道駅
   contain:
