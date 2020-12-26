@@ -223,6 +223,10 @@ kanto:
     - chiba.txt
     - tokyo.txt
     - kanagawa.txt
+kimetsu_main:
+  long_name: "『鬼滅の刃』の主要人物と同期剣士と柱"
+  contain:
+    - kimetsu_main.txt
 kimetsu-no-yaiba:
   long_name: "『鬼滅の刃』の登場人物"
   contain:
