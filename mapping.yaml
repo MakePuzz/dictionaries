@@ -315,6 +315,10 @@ precure:
   long_name: プリキュアと相棒の妖精の名前
   contain:
     - precure.txt
+precure_warrior:
+  long_name: 『プリキュア』シリーズの戦士の名前
+  contain:
+    - precure_warrior.txt
 prefectures:
   long_name: 都道府県の名前
   contain:
