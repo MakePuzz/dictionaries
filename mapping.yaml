@@ -339,6 +339,10 @@ railroad_third:
   long_name: "全国地方鉄道の名前"
   contain:
     - railroad_third.txt
+recordaward-2020:
+  long_name: "第62回レコード大賞(2020年)各賞受賞者"
+  contain:
+    - recordaward-2020.txt
 residents-doumori:
   long_name: "『どうぶつの森』シリーズの住民の名前"
   contain:
