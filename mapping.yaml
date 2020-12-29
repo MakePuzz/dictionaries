@@ -56,6 +56,10 @@ animals:
   long_name: 動物の名前
   contain:
     - animals.txt
+anime-shinkai:
+  long_name: 新海誠監督のアニメ映画作品
+  contain:
+    - anime-shinkai.txt
 beef:
   long_name: 肉の種類
   contain:
@@ -448,6 +452,10 @@ station_kyushu:
     - station_miyazaki.txt
     - station_kagoshima.txt
     - station_okinawa.txt
+tenkinoko:
+  long_name: 『天気の子』の登場人物
+  contain:
+    - tenkinoko.txt
 tokyo:
   long_name: 東京都の市区町村
   contain:
