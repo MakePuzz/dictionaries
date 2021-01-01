@@ -170,6 +170,10 @@ greek_mythology:
   long_name: ギリシア神話の登場人物
   contain:
     - greek_mythology.txt
+hakone-university:
+  long_name: 2021年箱根駅伝の出場大学
+  contain:
+    - hakone-university.txt
 # harry-potter_ja:
 #   long_name: "『ハリー・ポッター』の登場人物"
 #   contain:
