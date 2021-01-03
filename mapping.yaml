@@ -174,6 +174,10 @@ hakone-university:
   long_name: 2021年箱根駅伝の出場大学
   contain:
     - hakone-university.txt
+hakone-souka:
+  long_name: 2021年箱根駅伝創価大学のランナー
+  contain:
+    - hakone-souka.txt
 # harry-potter_ja:
 #   long_name: "『ハリー・ポッター』の登場人物"
 #   contain:
@@ -287,6 +291,10 @@ maids_maidreamin:
   long_name: 『めいどりーみん』のメイドさんの名前
   contain:
     - maids_maidreamin.txt
+mangasousennkyo:
+  long_name: 漫画総選挙の漫画名
+  contain:
+    - mangasousennkyo.txt
 meteorology_ja:
   long_name: 気象学用語
   contain:
