@@ -367,6 +367,18 @@ s_and_p100:
   long_name: Components of S&P 100
   contain:
     - s_and_p100.txt
+saka-hinatazaka:
+  long_name: 日向坂46のメンバー名
+  contain:
+    - saka-hinatazaka.txt
+saka-nogizaka:
+  long_name: 乃木坂46のメンバー名
+  contain:
+    - saka-nogizaka.txt
+saka-sakurazaka:
+  long_name: 櫻坂46のメンバー名
+  contain:
+    - saka-sakurazaka.txt
 sake:
   long_name: 酒の種類
   contain:
