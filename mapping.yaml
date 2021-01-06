@@ -134,10 +134,14 @@ donotlaugh:
   long_name: ガキ使・笑ってはいけないシリーズのテーマ
   contain:
     - donotlaugh.txt
-elements:
-  long_name: 元素の名前
+elements_ja:
+  long_name: 元素
   contain:
-    - elements.txt
+    - elements_ja.txt
+elements_en:
+  long_name: Elements
+  contain:
+    - elements_en.txt
 emperor:
   long_name: 天皇
   contain:
