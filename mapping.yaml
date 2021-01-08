@@ -52,6 +52,10 @@
   long_name: 
   contain:
     - 3nenAgumi.txt
+adult-2021:
+  long_name: 2021年に成人する有名人
+  contain:
+    - adult-2021.txt
 aichi:
   long_name: 愛知県の市町村
   contain:
@@ -406,6 +410,10 @@ singers_kouhaku_2020:
   long_name: 2020年紅白歌合戦の出場歌手
   contain:
     - singers_kouhaku_2020.txt
+slamdunk-shohoku:
+  long_name: 『スラムダンク』より湘北高校バスケットボール部
+  contain:
+    - slamdunk-shohoku.txt
 station_japan:
   long_name: 日本の鉄道駅
   contain:
