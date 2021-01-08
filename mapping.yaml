@@ -315,6 +315,10 @@ meteorology_ja:
   long_name: 気象学用語
   contain:
     - meteorology_ja.txt
+monhan-monster:
+  long_name: 『モンスターハンター』シリーズのモンスター
+  contain:
+    - monhan-monster.txt
 nagano:
   long_name: 長野県の市町村
   contain:
