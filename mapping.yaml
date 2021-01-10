@@ -251,6 +251,10 @@ kanto:
     - chiba.txt
     - tokyo.txt
     - kanagawa.txt
+kamenrider:
+  long_name: "仮面ライダー(主役)"
+  contain:
+    - kamenrider.txt
 kimetsu_main:
   long_name: "『鬼滅の刃』の主要人物と同期剣士と柱"
   contain:
@@ -504,6 +508,10 @@ station_kyushu:
     - station_miyazaki.txt
     - station_kagoshima.txt
     - station_okinawa.txt
+supersentai:
+  long_name: 『スーパー戦隊』シリーズ
+  contain:
+    - supersentai.txt
 tenkinoko:
   long_name: 『天気の子』の登場人物
   contain:
