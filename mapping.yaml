@@ -210,6 +210,10 @@ ibaraki:
   long_name: 茨城県の市町村
   contain:
     - ibaraki.txt
+idolypride:
+  long_name: IDOLY PRIDE
+  contain:
+    - idolypride.txt
 instrument_english:
   long_name: instrument
   contain:
