@@ -206,6 +206,18 @@ hurricane:
   long_name: ハリケーンの名前
   contain:
     - hurricane.txt
+hyakuninissyu_all:
+  long_name: 百人一首
+  contain:
+    - hyakuninissyu_all.txt
+hyakuninissyu_kami:
+  long_name: 百人一首の上の句
+  contain:
+    - hyakuninissyu_kami.txt
+hyakuninissyu_shimo:
+  long_name: 百人一首の下の句
+  contain:
+    - hyakuninissyu_shimo.txt
 ibaraki:
   long_name: 茨城県の市町村
   contain:
