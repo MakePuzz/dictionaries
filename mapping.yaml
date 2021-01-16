@@ -128,6 +128,10 @@ cities-nagano:
   long_name: 長野県の市町村
   contain:
     - cities-nagano.txt
+cities-osaka:
+  long_name: 大阪府の市町村
+  contain:
+    - cities-osaka.txt
 cities-tokyo:
   long_name: 東京都の市区町村
   contain:
@@ -304,13 +308,13 @@ kimetsu_words_mugen:
 kinki:
   long_name: 近畿地方の市町村
   contain:
-    - mie.txt
-    - shiga.txt
-    - kyoto.txt
-    - osaka.txt
-    - hyogo.txt
-    - nara.txt
-    - wakayama.txt
+    - cities-mie.txt
+    - cities-shiga.txt
+    - cities-kyoto.txt
+    - cities-osaka.txt
+    - cities-hyogo.txt
+    - cities-nara.txt
+    - cities-wakayama.txt
 kotowaza:
   long_name: ことわざ
   contain:
@@ -370,10 +374,6 @@ onepiece:
   long_name: "『ONE PIECE』の登場人物"
   contain:
     - onepiece.txt
-osaka:
-  long_name: 大阪府の市町村
-  contain:
-    - osaka.txt
 pokemon:
   long_name: ポケモンの名前
   contain:
