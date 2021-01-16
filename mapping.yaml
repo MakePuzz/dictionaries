@@ -95,11 +95,11 @@ chubu:
 chugoku:
   long_name: 中国地方の市町村
   contain:
-    - tottori.txt
-    - shimane.txt
-    - okayama.txt
-    - hiroshima.txt
-    - yamaguchi.txt
+    - cities-tottori.txt
+    - cities-shimane.txt
+    - cities-okayama.txt
+    - cities-hiroshima.txt
+    - cities-yamaguchi.txt
 christmas_words:
   long_name: クリスマスの関連語
   contain:
