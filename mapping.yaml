@@ -112,6 +112,10 @@ cities-chiba:
   long_name: 千葉県の市町村
   contain:
     - cities-chiba.txt
+cities-fukuoka:
+  long_name: 福岡県の市町村
+  contain:
+    - cities-fukuoka.txt
 cities-fukushima:
   long_name: 福島県の市町村
   contain:
@@ -120,6 +124,10 @@ cities-hokkaido:
   long_name: 北海道の市町村
   contain:
     - cities-hokkaido.txt
+cities-kumamoto:
+  long_name: 熊本県の市町村
+  contain:
+    - cities-kumamoto.txt
 cities-ibaraki:
   long_name: 茨城県の市町村
   contain:
@@ -192,10 +200,6 @@ fruit-vegetable_japanese:
   long_name: 野菜・果物の名前
   contain:
     - fruit-vegetable_japanese.txt
-fukuoka:
-  long_name: 福岡県の市町村
-  contain:
-    - fukuoka.txt
 gemstones_katakana:
   long_name: 宝石の名前
   contain:
@@ -319,21 +323,17 @@ kotowaza:
   long_name: ことわざ
   contain:
     - kotowaza.txt
-kumamoto:
-  long_name: 熊本県の市町村
-  contain:
-    - kumamoto.txt
 kyushu:
   long_name: 九州地方の市町村
   contain:
-    - fukuoka.txt
-    - saga.txt
-    - nagasaki.txt
-    - kumamoto.txt
-    - ooita.txt
-    - miyazaki.txt
-    - kagoshima.txt
-    - okinawa.txt
+    - cities-fukuoka.txt
+    - cities-saga.txt
+    - cities-nagasaki.txt
+    - cities-kumamoto.txt
+    - cities-ooita.txt
+    - cities-miyazaki.txt
+    - cities-kagoshima.txt
+    - cities-okinawa.txt
 lovelive_member:
   long_name: 『ラブライブ』シリーズのスクールアイドル
   contain:
