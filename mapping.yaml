@@ -433,10 +433,10 @@ sake:
 shikoku:
   long_name: 四国地方の市町村
   contain:
-    - kagawa.txt
-    - ehime.txt
-    - tokushima.txt
-    - kochi.txt
+    - cities-kagawa.txt
+    - cities-ehime.txt
+    - cities-tokushima.txt
+    - cities-kochi.txt
 sports:
   long_name: スポーツの名前
   contain:
