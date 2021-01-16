@@ -84,10 +84,6 @@ cats:
   long_name: 猫の名前
   contain:
     - cats.txt
-chiba:
-  long_name: 千葉県の市町村
-  contain:
-    - chiba.txt
 chubu:
   long_name: 中部地方の市町村
   contain:
@@ -110,6 +106,10 @@ christmas_words:
   long_name: クリスマスの関連語
   contain:
     - christmas_words.txt
+cities-chiba:
+  long_name: 千葉県の市町村
+  contain:
+    - cities-chiba.txt
 cities-fukushima:
   long_name: 福島県の市町村
   contain:
@@ -118,6 +118,14 @@ cities-hokkaido:
   long_name: 北海道の市町村
   contain:
     - cities-hokkaido.txt
+cities-ibaraki:
+  long_name: 茨城県の市町村
+  contain:
+    - cities-ibaraki.txt
+cities-tokyo:
+  long_name: 東京都の市区町村
+  contain:
+    - cities-tokyo.txt
 color:
   long_name: 色の名前
   contain:
@@ -260,13 +268,13 @@ japanese-university:
 kanto:
   long_name: 関東地方の市町村
   contain:
-    - ibaraki.txt
-    - tochigi.txt
-    - gunma.txt
-    - saitama.txt
-    - chiba.txt
-    - tokyo.txt
-    - kanagawa.txt
+    - cities-ibaraki.txt
+    - cities-tochigi.txt
+    - cities-gunma.txt
+    - cities-saitama.txt
+    - cities-chiba.txt
+    - cities-tokyo.txt
+    - cities-kanagawa.txt
 kamenrider:
   long_name: "仮面ライダー(主役)"
   contain:
@@ -532,10 +540,6 @@ tenkinoko:
   long_name: 『天気の子』の登場人物
   contain:
     - tenkinoko.txt
-tokyo:
-  long_name: 東京都の市区町村
-  contain:
-    - tokyo.txt
 tohoku:
   long_name: 東北地方の市町村
   contain:
