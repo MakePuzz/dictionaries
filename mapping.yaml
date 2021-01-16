@@ -110,6 +110,14 @@ christmas_words:
   long_name: クリスマスの関連語
   contain:
     - christmas_words.txt
+cities-fukushima:
+  long_name: 福島県の市町村
+  contain:
+    - cities-fukushima.txt
+cities-hokkaido:
+  long_name: 北海道の市町村
+  contain:
+    - cities-hokkaido.txt
 color:
   long_name: 色の名前
   contain:
@@ -166,10 +174,6 @@ fruit-vegetable_japanese:
   long_name: 野菜・果物の名前
   contain:
     - fruit-vegetable_japanese.txt
-fukushima:
-  long_name: 福島県の市町村
-  contain:
-    - fukushima.txt
 fukuoka:
   long_name: 福岡県の市町村
   contain:
@@ -198,10 +202,6 @@ hakone-souka:
 #   long_name: "『ハリー・ポッター』の登場人物"
 #   contain:
 #     - harry-potter_ja.txt
-hokkaido:
-  long_name: 北海道の市町村
-  contain:
-    - hokkaido.txt
 hurricane:
   long_name: ハリケーンの名前
   contain:
@@ -539,12 +539,12 @@ tokyo:
 tohoku:
   long_name: 東北地方の市町村
   contain:
-    - aomori.txt
-    - iwate.txt
-    - akita.txt
-    - yamagata.txt
-    - fukushima.txt
-    - miyagi.txt
+    - cities-aomori.txt
+    - cities-iwate.txt
+    - cities-akita.txt
+    - cities-yamagata.txt
+    - cities-fukushima.txt
+    - cities-miyagi.txt
 typhoon:
   long_name: Typhoon names
   contain:
