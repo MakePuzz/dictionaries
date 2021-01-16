@@ -56,10 +56,6 @@ adult-2021:
   long_name: 2021年に成人する有名人
   contain:
     - adult-2021.txt
-aichi:
-  long_name: 愛知県の市町村
-  contain:
-    - aichi.txt
 animals:
   long_name: 動物の名前
   contain:
@@ -87,13 +83,15 @@ cats:
 chubu:
   long_name: 中部地方の市町村
   contain:
-    - yamanashi.txt
-    - nagano.txt
-    - nigata.txt
-    - toyama.txt
-    - ishikawa.txt
-    - fukui.txt
-    - mie.txt
+    - cities-yamanashi.txt
+    - cities-nagano.txt
+    - cities-nigata.txt
+    - cities-toyama.txt
+    - cities-ishikawa.txt
+    - cities-fukui.txt
+    - cities-shizuoka.txt
+    - cities-aichi.txt
+    - cities-gifu.txt
 chugoku:
   long_name: 中国地方の市町村
   contain:
@@ -106,6 +104,10 @@ christmas_words:
   long_name: クリスマスの関連語
   contain:
     - christmas_words.txt
+cities-aichi:
+  long_name: 愛知県の市町村
+  contain:
+    - cities-aichi.txt
 cities-chiba:
   long_name: 千葉県の市町村
   contain:
@@ -122,6 +124,10 @@ cities-ibaraki:
   long_name: 茨城県の市町村
   contain:
     - cities-ibaraki.txt
+cities-nagano:
+  long_name: 長野県の市町村
+  contain:
+    - cities-nagano.txt
 cities-tokyo:
   long_name: 東京都の市区町村
   contain:
@@ -298,6 +304,7 @@ kimetsu_words_mugen:
 kinki:
   long_name: 近畿地方の市町村
   contain:
+    - mie.txt
     - shiga.txt
     - kyoto.txt
     - osaka.txt
@@ -347,10 +354,6 @@ monhan-monster:
   long_name: 『モンスターハンター』シリーズのモンスター
   contain:
     - monhan-monster.txt
-nagano:
-  long_name: 長野県の市町村
-  contain:
-    - nagano.txt
 naruto:
   long_name: "『NARUTO』の登場人物"
   contain:
