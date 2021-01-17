@@ -338,6 +338,10 @@ lovelive_member:
   long_name: 『ラブライブ』シリーズのスクールアイドル
   contain:
     - lovelive_member.txt
+magiarecord:
+  long_name: マギアレコードに実装済み魔法少女
+  contain:
+    - magiarecord.txt
 maids_athomecafe:
   long_name: 『アットホームカフェ』のメイドさんの名前
   contain:
