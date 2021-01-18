@@ -547,6 +547,10 @@ tenkinoko:
   long_name: 『天気の子』の登場人物
   contain:
     - tenkinoko.txt
+training:
+  long_name: 筋トレの種目
+  contain:
+    - training.txt
 tohoku:
   long_name: 東北地方の市町村
   contain:
