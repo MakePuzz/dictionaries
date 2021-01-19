@@ -358,6 +358,10 @@ meteorology_ja:
   long_name: 気象学用語
   contain:
     - meteorology_ja.txt
+momotestu:
+  long_name: switch版桃鉄の駅名
+  contain:
+    - momotestu.txt
 monhan-monster:
   long_name: 『モンスターハンター』シリーズのモンスター
   contain:
@@ -434,6 +438,14 @@ sake:
   long_name: 酒の種類
   contain:
     - sake.txt
+sega-projectsekai:
+  long_name: プロジェクトセカイのキャラクター名
+  contain:
+    - sega-projectsekai.txt
+sega-sakurakakumei:
+  long_name: サクラ革命のキャラクター名
+  contain:
+    - sega-sakurakakumei.txt
 shikoku:
   long_name: 四国地方の市町村
   contain:
@@ -572,6 +584,14 @@ us_states_ja:
   long_name: アメリカの州
   contain:
     - us_states_ja.txt
+webmarket:
+  long_name: webマーケティング用語
+  contain:
+    - webmarket.txt
+webmarket_ja:
+  long_name: webマーケティング用語(アルファベット略語無し)
+  contain:
+    - webmarket_ja.txt
 western_color:
   long_name: 色の名前（洋色）
   contain:
