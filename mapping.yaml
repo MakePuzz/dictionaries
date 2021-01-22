@@ -188,6 +188,14 @@ emperor:
   long_name: 天皇
   contain:
     - emperor.txt
+evangelion-people:
+  long_name: 新世紀エヴァンゲリオンの登場人物
+  contain:
+    - evangelion-people.txt
+evangelion-shito:
+  long_name: 新世紀エヴァンゲリオンの使徒
+  contain:
+    - evangelion-shito.txt
 fishes:
   long_name: 魚の名前
   contain:
