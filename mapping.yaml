@@ -64,6 +64,34 @@ anime-shinkai:
   long_name: 新海誠監督のアニメ映画作品
   contain:
     - anime-shinkai.txt
+baseball-lotte:
+  long_name: 千葉ロッテマリーンズの選手(2021.01情報)
+  contain:
+    - baseball-lotte.txt
+baseball-nipponhamu:
+  long_name: 日本ハムファイターズの選手(2021.01情報)
+  contain:
+    - baseball-nipponhamu.txt
+baseball-orix:
+  long_name: オリックスバファローズの選手(2021.01情報)
+  contain:
+    - baseball-orix.txt
+baseball-rakuten:
+  long_name: 楽天イーグルスの選手(2021.01情報)
+  contain:
+    - baseball-rakuten.txt
+baseball-seibu:
+  long_name: 西部ライオンズの選手(2021.01情報)
+  contain:
+    - baseball-seibu.txt
+baseball-softbank:
+  long_name: ソフトバンクホークスの選手(2021.01情報)
+  contain:
+    - baseball-softbank.txt
+baseball-yomiuri:
+  long_name: 読売ジャイアンツの選手(2021.01情報)
+  contain:
+    - baseball-yomiuri.txt
 beef:
   long_name: 肉の種類
   contain:
