@@ -244,6 +244,10 @@ greek_mythology:
   long_name: ギリシア神話の登場人物
   contain:
     - greek_mythology.txt
+grongi:
+  long_name: グロンギの名前
+  contain:
+    - grongi.txt
 hakone-komazawa:
   long_name: 2021年箱根駅伝駒澤大学のランナー
   contain:
