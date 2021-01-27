@@ -505,6 +505,15 @@ slamdunk-shohoku:
   long_name: 『スラムダンク』より湘北高校バスケットボール部
   contain:
     - slamdunk-shohoku.txt
+sixstones:
+  long_name: SixTONES
+  contain:
+    - sixstones.txt
+    - slamdunk-shohoku.txt
+snowman:
+  long_name: Snow Man
+  contain:
+    - snowman.txt
 station_japan:
   long_name: 日本の鉄道駅
   contain:
