@@ -176,10 +176,26 @@ color:
   long_name: 色の名前
   contain:
     - color.txt
-conan_movie:
+conan-place:
+  long_name: 『名探偵コナン』の舞台
+  contain:
+    - conan-place.txt
+conan-tool:
+  long_name: 名探偵コナンが使う道具
+  contain:
+    - conan-tool.txt
+conan-mainpeople:
+  long_name: 『名探偵コナン』のメイン登場人物
+  contain:
+    - conan-mainpeople.txt
+conan-movie-all:
   long_name: 『劇場版名探偵コナン』のタイトル
   contain:
-    - conan_movie.txt
+    - conan-movie-all.txt
+conan-movie-separate:
+  long_name: 『劇場版名探偵コナン』のタイトル(分割版)
+  contain:
+    - conan-movie-separate.txt
 constellation_ja:
   long_name: 星座
   contain:
