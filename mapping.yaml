@@ -224,6 +224,14 @@ evangelion-shito:
   long_name: 新世紀エヴァンゲリオンの使徒
   contain:
     - evangelion-shito.txt
+evangelionew-people:
+  long_name: ヱヴァンゲリヲン新劇場の登場人物
+  contain:
+    - evangelionew-people.txt
+evangelionew-actor:
+  long_name: ヱヴァンゲリヲン新劇場の声優
+  contain:
+    - evangelionew-actor.txt
 fishes:
   long_name: 魚の名前
   contain:
@@ -604,6 +612,10 @@ supersentai:
   long_name: 『スーパー戦隊』シリーズ
   contain:
     - supersentai.txt
+tanita-analyzer:
+  long_name: タニタの体組成計の製品番号
+  contain:
+    - tanita-analyzer.txt
 tenkinoko:
   long_name: 『天気の子』の登場人物
   contain:
