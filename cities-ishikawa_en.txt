@@ -1,8 +1,8 @@
 Kaga
-Noto
+Nakanoto
 Kanazawa
 Uchinada
-Tubata
+Tsubata
 Kahoku
 Komatsu
 Suzu
@@ -11,7 +11,7 @@ Nonoichi
 Kawakita
 Nomi
 Shika
-Hodatushimizu
+Hodatsushimizu
 Hakui
 Hakusan
 Anamizu
