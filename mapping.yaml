@@ -649,10 +649,14 @@ tohoku:
     - cities-yamagata.txt
     - cities-fukushima.txt
     - cities-miyagi.txt
-typhoon:
+typhoon_ja:
+  long_name: 台風の名前
+  contain:
+    - typhoon_ja.txt
+typhoon_en:
   long_name: Typhoon names
   contain:
-    - typhoon.txt
+    - typhoon_en.txt
 us_states_en:
   long_name: States of the United States
   contain:
