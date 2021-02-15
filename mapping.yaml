@@ -220,6 +220,10 @@ donotlaugh:
   long_name: ガキ使・笑ってはいけないシリーズのテーマ
   contain:
     - donotlaugh.txt
+doraemon-tool:
+  long_name: ドラえもんのひみつ道具
+  contain:
+    - doraemon-tool.txt
 elements_ja:
   long_name: 元素
   contain:
