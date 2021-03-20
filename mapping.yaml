@@ -48,8 +48,8 @@
 # つまり，例３では japan の exclude キーが最優先となります。
 
 ---
-3nenAgumi: ドラマ『3年A組』の生徒
-  long_name: 
+3nenAgumi:
+  long_name: ドラマ『3年A組』の生徒
   contain:
     - 3nenAgumi.txt
 adult-2021:
