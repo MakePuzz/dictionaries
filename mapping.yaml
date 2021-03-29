@@ -327,7 +327,7 @@ instrument_japanese:
 japan:
   long_name: 日本の市町村
   contain:
-    - hokkaido.txt
+    - cities-hokkaido.txt
     - tohoku
     - kanto
     - chubu
