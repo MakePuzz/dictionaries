@@ -132,6 +132,10 @@ christmas_words:
   long_name: クリスマスの関連語
   contain:
     - christmas_words.txt
+character-naobou:
+  long_name: 東山奈央が演じたキャラクターで
+  contain:
+    - character-naobou.txt
 cities-aichi:
   long_name: 愛知県の市町村
   contain:
@@ -391,6 +395,10 @@ kotowaza:
   long_name: ことわざ
   contain:
     - kotowaza.txt
+koushien2021s:
+  long_name: 春のセンバツ2021出場校
+  contain:
+    - koushien2021s.txt
 kyushu:
   long_name: 九州地方の市町村
   contain:
@@ -422,6 +430,46 @@ mangasousennkyo:
   long_name: 漫画総選挙の漫画名
   contain:
     - mangasousennkyo.txt
+mario-1-2:
+  long_name: スーパーマリオブラザーズ無印・2のキャラ
+  contain:
+    - mario-1-2.txt
+mario-3:
+  long_name: スーパーマリオブラザーズ3のキャラ
+  contain:
+    - mario-3.txt
+mario-main:
+  long_name: スーパーマリオのメインキャラ
+  contain:
+    - mario-main.txt
+mario-world:
+  long_name: スーパーマリオワールドのキャラ
+  contain:
+    - mario-world.txt
+mario-usa:
+  long_name: スーパーマリオUSAのキャラ
+  contain:
+    - mario-usa.txt
+mario-64:
+  long_name: スーパーマリオ64のキャラ
+  contain:
+    - mario-64.txt
+mario-sunshine:
+  long_name: スーパーマリオサンシャインのキャラ
+  contain:
+    - mario-sunshine.txt
+mario-galaxy:
+  long_name: スーパーマリオギャラクシーのキャラ
+  contain:
+    - mario-galaxy.txt
+mario-deluxe:
+  long_name: ニュースーパーマリオブラザーズUデラックスのキャラ
+  contain:
+    - mario-deluxe.txt
+mario-odyssey:
+  long_name: スーパーマリオオデッセイのキャラ
+  contain:
+    - mario-odyssey.txt
 meteorology_ja:
   long_name: 気象学用語
   contain:
@@ -450,6 +498,10 @@ onepiece:
   long_name: "『ONE PIECE』の登場人物"
   contain:
     - onepiece.txt
+onepiece-midrank-world:
+  long_name: "ONEPIECEの人気投票世界版中間発表ベスト100"
+  contain:
+    - onepiece-midrank-world.txt
 pokemon:
   long_name: ポケモンの名前
   contain:
@@ -542,6 +594,10 @@ snowman:
   long_name: Snow Man
   contain:
     - snowman.txt
+spratoon-weapon:
+  long_name: スプラトゥーン2のブキ
+  contain:
+    - spratoon-weapon.txt
 station_japan:
   long_name: 日本の鉄道駅
   contain:
@@ -669,6 +725,10 @@ us_states_ja:
   long_name: アメリカの州
   contain:
     - us_states_ja.txt
+volcalno:
+  long_name: 日本の活火山
+  contain:
+    - volcalno.txt
 webmarket:
   long_name: webマーケティング用語
   contain:
