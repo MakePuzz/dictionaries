@@ -196,10 +196,10 @@ conan-movie-all:
   long_name: 『劇場版名探偵コナン』のタイトル
   contain:
     - conan-movie-all.txt
-conan-movie-separate:
+conan-movie_separate:
   long_name: 『劇場版名探偵コナン』のタイトル(分割版)
   contain:
-    - conan-movie-separate.txt
+    - conan-movie_separate.txt
 constellation_ja:
   long_name: 星座
   contain:
@@ -219,7 +219,7 @@ dinosaurs:
 dogs:
   long_name: 犬種
   contain:
-    - dogss.txt
+    - dogs.txt
 donotlaugh:
   long_name: ガキ使・笑ってはいけないシリーズのテーマ
   contain:
@@ -300,22 +300,18 @@ hurricane:
   long_name: ハリケーンの名前
   contain:
     - hurricane.txt
-hyakuninissyu_all:
+hyakuninisshu_all:
   long_name: 百人一首
   contain:
-    - hyakuninissyu_all.txt
-hyakuninissyu_kami:
+    - hyakuninisshu_all.txt
+hyakuninisshu_kami:
   long_name: 百人一首の上の句
   contain:
-    - hyakuninissyu_kami.txt
-hyakuninissyu_shimo:
+    - hyakuninisshu_kami.txt
+hyakuninisshu_shimo:
   long_name: 百人一首の下の句
   contain:
-    - hyakuninissyu_shimo.txt
-ibaraki:
-  long_name: 茨城県の市町村
-  contain:
-    - ibaraki.txt
+    - hyakuninisshu_shimo.txt
 idolypride:
   long_name: IDOLY PRIDE
   contain:
@@ -361,10 +357,10 @@ kanto:
     - cities-chiba.txt
     - cities-tokyo.txt
     - cities-kanagawa.txt
-kamenrider:
+kamenrider-main:
   long_name: "仮面ライダー(主役)"
   contain:
-    - kamenrider.txt
+    - kamenrider-main.txt
 kimetsu_main:
   long_name: "『鬼滅の刃』の主要人物と同期剣士と柱"
   contain:
@@ -474,10 +470,10 @@ meteorology_ja:
   long_name: 気象学用語
   contain:
     - meteorology_ja.txt
-momotestu:
+momotetsu:
   long_name: switch版桃鉄の駅名
   contain:
-    - momotestu.txt
+    - momotetsu.txt
 monhan-monster:
   long_name: 『モンスターハンター』シリーズのモンスター
   contain:
@@ -725,10 +721,10 @@ us_states_ja:
   long_name: アメリカの州
   contain:
     - us_states_ja.txt
-volcalno:
+volcano:
   long_name: 日本の活火山
   contain:
-    - volcalno.txt
+    - volcano.txt
 webmarket:
   long_name: webマーケティング用語
   contain:
